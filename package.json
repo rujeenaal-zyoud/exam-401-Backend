@@ -1,0 +1,30 @@
+{
+  "name": "exam-401-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rujeenaal-zyoud/exam-401-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rujeenaal-zyoud/exam-401-Backend/issues"
+  },
+  "homepage": "https://github.com/rujeenaal-zyoud/exam-401-Backend#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "env": "^0.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13",
+    "server": "^1.0.33"
+  }
+}
